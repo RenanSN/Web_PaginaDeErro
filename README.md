@@ -3,8 +3,9 @@ Pagina web simples de erro 404 responsiva
 <br>
 <p align="center">
     <img src="https://github.com/RenanSN/Web_PaginaDeErro/blob/master/capa.png" width="490"><br>
-    <b> Demonstrção: https://renansn.github.io/Web_PaginaDeErro/ </b>
+    <b> Demonstrção: https://renansn.github.io/Web_PaginaDeErro/ </b><br>
+    <b> Obs:</b> Efeito visivel somento no computador
 </p>
 
-<b> Obs:</b> Efeito visivel somento no computador
+
 
