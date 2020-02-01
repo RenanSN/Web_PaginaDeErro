@@ -5,9 +5,9 @@
 
 <p align="center">
     Pagina web simples de erro 404 (Obs. responsiva)<br><br>
-    <img src="https://github.com/RenanSN/Web_PaginaDeErro/blob/master/capa.png" width="490"><br>
+    <img src="https://github.com/RenanSN/Web_PaginaDeErro/blob/master/capa.png" width="490"><br><br>
     <b> Demonstrção: https://renansn.github.io/Web_PaginaDeErro/ </b><br>
-    <b> Obs:</b> Efeito visivel somento no computador
+  <code><b> Obs:</b> Efeito visivel somento no computador</code>
 </p>
 
 
