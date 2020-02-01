@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Pagina web simples de erro 404 responsiva<br>
+    Pagina web simples de erro 404 (Obs. responsiva)<br><br>
     <img src="https://github.com/RenanSN/Web_PaginaDeErro/blob/master/capa.png" width="490"><br>
     <b> Demonstrção: https://renansn.github.io/Web_PaginaDeErro/ </b><br>
     <b> Obs:</b> Efeito visivel somento no computador
